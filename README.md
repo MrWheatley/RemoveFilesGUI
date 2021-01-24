@@ -2,3 +2,4 @@
 
 
 download the .exe from the releases. you shouldn't need any install anything else as all the dependencies should already be in the .exe
+[original script](https://github.com/SuajCarrot/remove_files_by_keyword/tree/Dev)
